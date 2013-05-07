@@ -1,4 +1,1 @@
-boilerplate
-===========
-
-HTML5 Boilerplate
+Jonas very own HTML5 Boilerplate
