@@ -1,1 +1,0 @@
-Jonas very own HTML5 Boilerplate

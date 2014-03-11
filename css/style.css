@@ -1,0 +1,36 @@
+@import "vendor/normalize.min.css";
+/* style.less - Imports only! */
+/* mixins.less - DO NOT MODIFY! */
+/* Source: https://github.com/twbs/bootstrap/blob/master/less/mixins.less */
+/* helpers.less */
+.wrapper {
+  max-width: 980px;
+  height: 100%;
+  margin: auto;
+  padding: 2em 3em;
+  background-color: #eee;
+}
+.noList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+/* main.less */
+* {
+  box-sizing: border-box;
+}
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  color: #222;
+}
+/* Desktop and Tablet */
+@media only screen and (min-width: 768px) {
+  
+}
+/* Smartphone */
+@media only screen and (max-width: 767px) {
+  
+}
